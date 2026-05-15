@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Coffee Leaf Rust Generalization
 
 The project studies the domain gap between clean, curated RoCoLe coffee leaf images and messier automatically collected CLR images. It benchmarks DenseNet201 classifiers, compares augmentation strategies, evaluates YOLOv8-based leaf segmentation outputs, and saves final model checkpoints.
